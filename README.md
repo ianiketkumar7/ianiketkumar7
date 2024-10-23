@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aniketkumar.nikeman@gmail.com**
 
-- ⚡ Cadet Chronicles **I'm an NCC Cadet and love integrating discipline and dedication into my cybersecurity work.**
+- ⚡ Cadet Chronicles : **I'm an NCC Cadet and love integrating discipline and dedication into my cybersecurity work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
