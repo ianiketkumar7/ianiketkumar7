@@ -3,8 +3,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=ianiketkumar7&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-## TryHackMe Badge 
-<img src="https://tryhackme-badges.s3.amazonaws.com/aniketkumar.nike.png" alt="Your Image Badge" />
+## 👾 TryHackMe Badge 
+<a href="https://tryhackme.com/r/aniketkumar.nike">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/aniketkumar.nike.png" alt="TryHackMe Badge" />
+</a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-bharat) 
