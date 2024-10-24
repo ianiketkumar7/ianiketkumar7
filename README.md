@@ -1,10 +1,7 @@
-![logo](https://github.com/ianiketkumar7/ianiketkumar7/blob/main/Natural_Look_Of_Kargil_War_Memorial.jpg)
-
-[![](https://visitcount.itsvg.in/api?id=ianiketkumar7&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 🔭 I’m currently working on TrueSight: Real-Time Deepfake Detection System<br><br>🌱 I’m currently learning Deep Learning Models for Cybersecurity, Network Security, and Advanced Red Hat Linux Administration.<br><br>👯 I’m looking to collaborate on Cybersecurity Projects, especially in Threat Detection and Automation.<br><br>🤝 I’m looking for help with Advanced Cybersecurity Research and Cloud Security Implementation.<br><br>👨‍💻 All of my projects are available at https://aniketbharat.wordpress.com/<br><br>💬 Ask me about Cybersecurity, Linux System Administration, Shell Scripting, and how technology can enhance National Security.<br><br>📫 How to reach me aniketkumar.nikeman@gmail.com<br><br>⚡ Cadet Chronicles : I'm an NCC Cadet and love integrating discipline and dedication into my cybersecurity work.
 
+[![](https://visitcount.itsvg.in/api?id=ianiketkumar7&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-bharat) 
