@@ -3,14 +3,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=ianiketkumar7&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-## 👾 TryHackMe Badge 
-<a href="https://tryhackme.com/r/aniketkumar.nike">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/aniketkumar.nike.png" alt="TryHackMe Badge" />
-</a>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-bharat) 
 
+# 👾 TryHackMe Badge 
+<a href="https://tryhackme.com/r/p/aniketkumar.nike">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/aniketkumar.nike.png" alt="TryHackMe Badge" />
+</a>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![RedHat](https://img.shields.io/badge/redhat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
