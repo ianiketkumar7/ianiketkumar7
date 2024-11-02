@@ -8,7 +8,7 @@
 
 # 👾 TryHackMe Badge 
 <a href="https://tryhackme.com/r/p/aniketkumar.nike">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/aniketkumar.nike.png" alt="TryHackMe Badge" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3147534" style='border:none;'></iframe>
 </a>
 
 # 💻 Tech Stack:
