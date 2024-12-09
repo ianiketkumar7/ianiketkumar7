@@ -8,7 +8,7 @@
 
 # 👾 TryHackMe Badge 
 <a href="https://tryhackme.com/r/p/aniketkumar.nike">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/aniketkumar.nike.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ShoorveerChap.png" alt="Your Image Badge" />
 </a>
 
 # 💻 Tech Stack:
