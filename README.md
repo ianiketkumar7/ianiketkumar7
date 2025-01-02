@@ -7,8 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-bharat) 
 
 # 👾 TryHackMe Badge 
-<a href="https://tryhackme.com/r/p/aniketkumar.nike">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ShoorveerChap.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/r/p/ShoorveerChap">
+  <img src="<img src="https://tryhackme-badges.s3.amazonaws.com/ShoorveerChap.png" alt="Your Image Badge" />" />
 </a>
 
 # 💻 Tech Stack:
