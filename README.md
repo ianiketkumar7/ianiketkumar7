@@ -7,12 +7,8 @@
 📫 Reach me at **aniketkumar.nikeman@gmail.com**.  
 ⚡ **NCC Cadet** – Bringing discipline and strategic thinking into cybersecurity.  
 
----
-
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-bharat)  
-
----
 
 ## 💻 Tech Stack  
 
@@ -33,15 +29,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
 
----
-
 ## 📊 GitHub Stats  
 
-| ![](https://github-readme-stats.vercel.app/api?username=ianiketkumar7&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ianiketkumar7&theme=blue-green&hide_border=false) |
+![](https://github-readme-stats.vercel.app/api?username=ianiketkumar7&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=ianiketkumar7&theme=blue-green&hide_border=false)  
 |:-:|:-:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianiketkumar7&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | |
-
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ianiketkumar7&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
 
 🚀 **Always learning, improving, and securing the digital world.**  
 
