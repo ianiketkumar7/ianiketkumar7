@@ -36,6 +36,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianiketkumar7&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ianiketkumar7&theme=blue-green&hide_border=false)  
-![Top Languages](https://githubreadmestats.vercel.app/api/toplangs/username=ianiketkumar7&theme=bluegreen&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianiketkumar7&theme=blue-green&hide_border=false&layout=compact)
 
 🚀 **Always learning, improving, and securing the digital world.**  
