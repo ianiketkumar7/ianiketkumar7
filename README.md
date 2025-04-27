@@ -10,7 +10,7 @@
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-bharat)  
 
-## 👾 TryHackMe Badge  
+## 👾 TryHackMe Stat  
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ShoorveerChap.png)](https://tryhackme.com/r/p/ShoorveerChap)  
 
 ## 💻 Tech Stack  
