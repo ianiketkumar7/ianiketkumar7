@@ -12,7 +12,7 @@
 
 ## 👾 TryHackMe Stat  
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ShoorveerChap.png)](https://tryhackme.com/r/p/ShoorveerChap)  
-[![Relwarc17](https://www.hackthebox.eu/badge/image/1803130)](https://app.hackthebox.com/profile/1803130)  
+[![HackTheBox](https://www.hackthebox.eu/badge/image/1803130)](https://app.hackthebox.com/profile/1803130)  
 
 ## 💻 Tech Stack  
 
