@@ -87,12 +87,16 @@
 ## 🧪 Featured Work  
 
 🔬 Malware Analysis Projects  
-🛡️ Security Research & Labs  
-⚙️ Security Automation & Scripting  
+🛡️ Security Research & Hands-on Labs  
+🏁 CTF Writeups & Exploitation Challenges  
+💻 Coding Projects & their GitHub Repositories  
+🕵️ Steganography & Data Hiding Project  
+⚙️ Security Automation & Scripting Works
+🖥️ Linux System Administration Projects
 
 ## 🚀 Motto  
 
-> **"Analyze. Detect. Defend. 🇮🇳"**  
+> **"Analyze. Detect. Defend."**  
 
 ---
 
