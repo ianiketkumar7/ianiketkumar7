@@ -1,46 +1,82 @@
-# 💫 About Me  
+# 🛡️ Aniket Kumar | Cybersecurity Practitioner  
 
-🔭 Cybersecurity enthusiast focused on **Threat Detection, Automation, and National Security**.  
-🌱 Learning **Cybersecurity, Network Security, and Advanced Red Hat Linux Administration**.  
-👯 Open to collaboration on **Cybersecurity Research & Cloud Security Implementation**.  
-💬 Ask me about **Linux System Administration, Shell Scripting, and Cybersecurity**.  
-📫 Reach me at **aniketkumar.nikeman@gmail.com**.  
-⚡ **NCC Cadet** – Bringing discipline and strategic thinking into cybersecurity.  
+<!-- Pixel Indian Flag -->
+<img src="https://www.fg-a.com/flags/2021-indian-flag-waves.jpg" width="120"/>  
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-bharat)  
+<!-- Animated Typing Banner -->  
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&vCenter=true&width=700&lines=Analyzing+Malware+Behavior;Breaking+Down+Real+World+Threats;Hunting+Vulnerabilities+via+CTFs;Building+Defensive+Security+Skills;Securing+Digital+India" />  
 
-## 👾 TryHackMe Stat  
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ShoorveerChap.png)](https://tryhackme.com/r/p/ShoorveerChap)  
+## 💫 About Me  
 
-## 💻 Tech Stack  
+🔭 Exploring **Threat Detection, Malware Analysis, and Security Operations**  
+🌱 Learning **Cybersecurity, Network Security & Red Hat Linux Administration**  
+👯 Open to collaboration on **Cybersecurity Research & Security Projects**  
+💬 Ask me about **Linux, Shell Scripting & Security Fundamentals**  
+📫 Reach me at: **aniketkumar.nikeman@gmail.com**  
+⚡ **NCC Cadet** – Discipline | Leadership | Strategic Thinking  
 
-### **Programming & Scripting**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)    
+## 🧠 Cybersecurity Focus  
 
-### **Operating Systems & Security**  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
-![Red Hat](https://img.shields.io/badge/Red_Hat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)  
-![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  
+🔹 Malware Analysis  
+🔹 Threat Hunting  
+🔹 Blue Team Operations  
+🔹 Memory Forensics  
+🔹 Network Analysis  
+🔹 Linux Hardening  
 
-### **DevOps & AI**  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniket-kumar-bharat)
+
+## 👾 TryHackMe  
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ShoorveerChap.png)](https://tryhackme.com/r/p/ShoorveerChap)
+
+## ⚙️ Tech Stack  
+
+### 💻 Programming & Scripting  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🖥️ Systems & Security  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Cisco](https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 🛠️ Security Tools  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-Memory_Forensics-black?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
 
 ## 📊 GitHub Stats  
-   
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianiketkumar7&theme=blue-green&hide_border=false&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianiketkumar7&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ianiketkumar7&theme=blue-green&hide_border=false)  
 
-🚀 **Always learning, improving, and securing the digital world.**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianiketkumar7&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ianiketkumar7&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianiketkumar7&layout=compact&theme=tokyonight)
+
+## 🧪 Featured Work  
+
+🔬 Malware Analysis Projects  
+🛡️ Security Research & Labs  
+⚙️ Security Automation & Scripting  
+
+## 🚀 Motto  
+
+> **"Analyze. Detect. Defend. 🇮🇳"**  
+
+<!-- Visitor Counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=ianiketkumar7&label=Profile+Views&color=0e75b6&style=flat)
+
+---
+
+## ⚠️ Disclaimer  
+
+For **educational and ethical cybersecurity purposes only**.  
+All analysis performed in controlled lab environments.
+
+---
+
+⭐ *Securing systems. Strengthening defenses. Serving the nation.* 🇮🇳
