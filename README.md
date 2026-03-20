@@ -91,8 +91,8 @@
 🏁 CTF Writeups & Exploitation Challenges  
 💻 Coding Projects & their GitHub Repositories  
 🕵️ Steganography & Data Hiding Project  
-⚙️ Security Automation & Scripting Works
-🖥️ Linux System Administration Projects
+⚙️ Security Automation & Scripting Works  
+🖥️ Linux System Administration Projects  
 
 ## 🚀 Motto  
 
