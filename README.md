@@ -3,8 +3,8 @@
 <!-- Pixel Indian Flag -->
 <img src="https://www.fg-a.com/flags/2021-indian-flag-waves.jpg" width="120"/>  
 
-<!-- Animated Typing Banner -->  
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&vCenter=true&width=700&lines=Analyzing+Malware+Behavior;Breaking+Down+Real+World+Threats;Hunting+Vulnerabilities+via+CTFs;Building+Defensive+Security+Skills;Securing+Digital+India" />  
+<!-- Animated Typing Banner (STABLE VERSION) -->  
+<img src="https://readme-typing-svg.demolab.com?color=00FF00&vCenter=true&width=700&lines=Analyzing+Malware+Behavior;Breaking+Down+Real+World+Threats;Hunting+Vulnerabilities+via+CTFs;Building+Defensive+Security+Skills;Securing+Digital+India" />  
 
 ## 💫 About Me  
 
@@ -26,7 +26,7 @@
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniket-kumar-bharat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/aniket-kumar-bharat)
 
 ## 👾 TryHackMe  
 
@@ -35,54 +35,60 @@
 ## ⚙️ Tech Stack  
 
 ### 💻 Programming & Scripting  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00)
 
 ### 🖥️ Systems & Security  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Cisco](https://img.shields.io/badge/Networking-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00)
+![RedHat](https://img.shields.io/badge/RedHat-000000?style=for-the-badge&logo=redhat&logoColor=00FF00)
+![Cisco](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00FF00)
 
-### 🛠️ Security Tools  
+## 🛠️ Security Tools  
 
 #### 🔬 Malware Analysis & Reverse Engineering  
-![PEStudio](https://img.shields.io/badge/PEStudio-Static_Analysis-blue?style=for-the-badge)
-![dnSpy](https://img.shields.io/badge/dnSpy-.NET_Reverse_Engineering-purple?style=for-the-badge)
-![IDA](https://img.shields.io/badge/IDA-Disassembler-black?style=for-the-badge)
-![FLARE VM](https://img.shields.io/badge/FLARE_VM-Malware_Lab-red?style=for-the-badge)
+![PEStudio](https://img.shields.io/badge/PEStudio-001100?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
+![dnSpy](https://img.shields.io/badge/dnSpy-001100?style=for-the-badge&logo=dotnet&logoColor=00FF00)
+![IDA](https://img.shields.io/badge/IDA-001100?style=for-the-badge&logo=gnubash&logoColor=00FF00)
+![FLARE VM](https://img.shields.io/badge/FLARE_VM-001100?style=for-the-badge&logo=windows&logoColor=00FF00)
 
 #### ⚙️ Dynamic & System Analysis  
-![Procmon](https://img.shields.io/badge/Process_Monitor-Dynamic_Analysis-lightgrey?style=for-the-badge)
-![Regshot](https://img.shields.io/badge/Regshot-Registry_Analysis-orange?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue?style=for-the-badge)
+![Procmon](https://img.shields.io/badge/Procmon-001100?style=for-the-badge&logo=windows&logoColor=00FF00)
+![Regshot](https://img.shields.io/badge/Regshot-001100?style=for-the-badge&logo=windows&logoColor=00FF00)
+![PowerShell](https://img.shields.io/badge/PowerShell-001100?style=for-the-badge&logo=powershell&logoColor=00FF00)
 
 #### 🧠 Memory Forensics  
-![Volatility](https://img.shields.io/badge/Volatility-Memory_Forensics-black?style=for-the-badge)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-Forensics-darkblue?style=for-the-badge)
+![Volatility](https://img.shields.io/badge/Volatility-001100?style=for-the-badge&logo=databricks&logoColor=00FF00)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-001100?style=for-the-badge&logo=windows&logoColor=00FF00)
 
 #### 🌐 Network & Reconnaissance  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![FakeNet](https://img.shields.io/badge/FakeNet-Network_Analysis-green?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-Scanning-blue?style=for-the-badge)
-![WHOIS](https://img.shields.io/badge/WHOIS-Threat_Intel-grey?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-001100?style=for-the-badge&logo=wireshark&logoColor=00FF00) 
+![FakeNet](https://img.shields.io/badge/FakeNet-001100?style=for-the-badge&logo=proxmox&logoColor=00FF00) 
+![Nmap](https://img.shields.io/badge/Nmap-001100?style=for-the-badge&logo=gnubash&logoColor=00FF00)
+![WHOIS](https://img.shields.io/badge/WHOIS-001100?style=for-the-badge&logo=internetexplorer&logoColor=00FF00)
 
 #### 🛡️ Security Platforms & SIEM  
-![Splunk](https://img.shields.io/badge/Splunk-SIEM-black?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-001100?style=for-the-badge&logo=splunk&logoColor=00FF00) 
 
 #### 🖥️ Operating Systems & Environments  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Penetration_Testing-blue?style=for-the-badge&logo=kalilinux&logoColor=white)
-![RHEL](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-RHEL-red?style=for-the-badge&logo=redhat&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-001100?style=for-the-badge&logo=kalilinux&logoColor=00FF00) 
+![RHEL](https://img.shields.io/badge/RHEL-001100?style=for-the-badge&logo=redhat&logoColor=00FF00) 
 
 #### 🔎 Threat Intelligence  
-![VirusTotal](https://img.shields.io/badge/VirusTotal-Threat_Intelligence-blue?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-001100?style=for-the-badge&logo=virustotal&logoColor=00FF00) 
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianiketkumar7&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ianiketkumar7&theme=tokyonight)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianiketkumar7&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ianiketkumar7&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://streak-stats.demolab.com?user=ianiketkumar7&theme=chartreuse-dark&background=000000" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ianiketkumar7&layout=compact&theme=chartreuse-dark" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ianiketkumar7&label=VISITORS&color=00ff00&style=for-the-badge" />
+</p>
 
 ## 🧪 Featured Work  
 
@@ -98,8 +104,6 @@
 
 > **"Analyze. Detect. Defend."**  
 
----
-
 ## ⚠️ Disclaimer  
 
 For **educational and ethical cybersecurity purposes only**.  
@@ -109,6 +113,4 @@ All analysis performed in controlled lab environments.
 
 ⭐ *Securing systems. Strengthening defenses. Serving the nation.*  
 
-<!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=ianiketkumar7&label=Profile+Views&color=0e75b6&style=flat)  
-
+---
