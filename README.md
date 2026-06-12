@@ -162,12 +162,12 @@
 ## 🧪 `aniket@kali:~$ cat /var/log/featured_work.log`
 ```text
   ┌─────────────────────────────────────────────────────────────────┐
-  │                        FEATURED WORK                           │
+  │                        FEATURED WORK                            │
   ├─────────────────────────────────────────────────────────────────┤
   │  🔬  Malware Analysis Projects                                  │
   │  🛡️  Security Research & Hands-on Labs                          │
   │  🏁  CTF Writeups & Exploitation Challenges                     │
-  │  💻  Coding Projects & their GitHub Repositories               │
+  │  💻  Coding Projects & their GitHub Repositories                │
   │  🕵️  Steganography & Data Hiding Project                        │
   │  ⚙️  Security Automation & Scripting Works                      │
   │  🖥️  Linux System Administration Projects                       │
