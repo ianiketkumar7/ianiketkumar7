@@ -22,7 +22,6 @@
   >> 🌱  Learning    Cybersecurity, Network Security & Red Hat Linux Administration
   >> 👯  Open To     Cybersecurity Research & Security Projects
   >> 💬  Ask About   Linux, Shell Scripting & Security Fundamentals
-  >> 📫  Contact     aniketkumar.nikeman@gmail.com
   >> ⚡  Identity    NCC Cadet — Discipline | Leadership | Strategic Thinking
 ```
 
